@@ -6,4 +6,4 @@ Ever time that the spider find a new transactions, its necessary to convert the 
 
 1. SparJoinTable Note book  explains how to use spark to joing to dataset, in the case the unified register with the transaction ones.
 
-2. SparkRecomendetion e Note book  
+2. SparkRecomendetion e Note book  contains a sample code with construc a recomender system base on user actions using spark mlib
